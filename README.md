@@ -8,7 +8,7 @@ https://maven.google.com/androidx/savedstate/savedstate/1.1.0/savedstate-1.1.0.a
   https://raw.githubusercontent.com/dandar3/android-androidx-savedstate/1.1.0/.projectset
 
 **Requires:**
-- `Android 9 (API 28) SDK Platform`
+- `Android 11 (API 30) SDK Platform`
 
 **References:**
 - https://developer.android.com/jetpack
